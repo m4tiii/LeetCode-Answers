@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/m4tiii/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/m4tiii/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/m4tiii/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/m4tiii/LeetCode-Answers/tree/master/1552-build-an-array-with-stack-operations) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/m4tiii/LeetCode-Answers/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/m4tiii/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -42,9 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m4tiii/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0058-length-of-last-word](https://github.com/m4tiii/LeetCode-Answers/tree/master/0058-length-of-last-word) |
+| [0020-valid-parentheses](https://github.com/m4tiii/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m4tiii/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/m4tiii/LeetCode-Answers/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
