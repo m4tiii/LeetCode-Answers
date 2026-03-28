@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/m4tiii/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/m4tiii/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/m4tiii/LeetCode-Answers/tree/master/1970-sorting-the-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/m4tiii/LeetCode-Answers/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Sliding Window
 |  |
 | ------- |
