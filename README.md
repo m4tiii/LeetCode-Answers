@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/m4tiii/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/m4tiii/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m4tiii/LeetCode-Answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/m4tiii/LeetCode-Answers/tree/master/0739-daily-temperatures) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/m4tiii/LeetCode-Answers/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m4tiii/LeetCode-Answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Stack
 |  |
