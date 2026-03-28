@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/m4tiii/LeetCode-Answers/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/m4tiii/LeetCode-Answers/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/m4tiii/LeetCode-Answers/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1580-shuffle-the-array](https://github.com/m4tiii/LeetCode-Answers/tree/master/1580-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
