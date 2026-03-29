@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/m4tiii/LeetCode-Answers/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/m4tiii/LeetCode-Answers/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/m4tiii/LeetCode-Answers/tree/master/1580-shuffle-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/m4tiii/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 | [1970-sorting-the-sentence](https://github.com/m4tiii/LeetCode-Answers/tree/master/1970-sorting-the-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/m4tiii/LeetCode-Answers/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0645-set-mismatch](https://github.com/m4tiii/LeetCode-Answers/tree/master/0645-set-mismatch) |
 | [1970-sorting-the-sentence](https://github.com/m4tiii/LeetCode-Answers/tree/master/1970-sorting-the-sentence) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
