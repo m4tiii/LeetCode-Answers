@@ -29,11 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/m4tiii/LeetCode-Answers/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/m4tiii/LeetCode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/m4tiii/LeetCode-Answers/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/m4tiii/LeetCode-Answers/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/m4tiii/LeetCode-Answers/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/m4tiii/LeetCode-Answers/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/m4tiii/LeetCode-Answers/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/m4tiii/LeetCode-Answers/tree/master/1552-build-an-array-with-stack-operations) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m4tiii/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/m4tiii/LeetCode-Answers/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/m4tiii/LeetCode-Answers/tree/master/0874-backspace-string-compare) |
 | [1970-sorting-the-sentence](https://github.com/m4tiii/LeetCode-Answers/tree/master/1970-sorting-the-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/m4tiii/LeetCode-Answers/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -74,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/m4tiii/LeetCode-Answers/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
