@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/m4tiii/LeetCode-Answers/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/m4tiii/LeetCode-Answers/tree/master/1580-shuffle-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/m4tiii/LeetCode-Answers/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/m4tiii/LeetCode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m4tiii/LeetCode-Answers/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/m4tiii/LeetCode-Answers/tree/master/0645-set-mismatch) |
+| [2502-sort-the-people](https://github.com/m4tiii/LeetCode-Answers/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-sorting-the-sentence](https://github.com/m4tiii/LeetCode-Answers/tree/master/1970-sorting-the-sentence) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/m4tiii/LeetCode-Answers/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/m4tiii/LeetCode-Answers/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/m4tiii/LeetCode-Answers/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0645-set-mismatch](https://github.com/m4tiii/LeetCode-Answers/tree/master/0645-set-mismatch) |
 | [1970-sorting-the-sentence](https://github.com/m4tiii/LeetCode-Answers/tree/master/1970-sorting-the-sentence) |
+| [2502-sort-the-people](https://github.com/m4tiii/LeetCode-Answers/tree/master/2502-sort-the-people) |
 ## String Matching
 |  |
 | ------- |
